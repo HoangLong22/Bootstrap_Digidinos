@@ -1,0 +1,17 @@
+body {
+	background-color: #153d77;
+	font-size: 12px;
+}
+.content {
+	padding-top: 10px;
+}
+.search {
+	padding-bottom: 30px;
+    margin-top: -20px;
+}
+.sea {
+	padding-bottom: 5px;
+}
+.card-header {
+	border-bottom: 0px solid rgba(0,0,0,.125);
+}
